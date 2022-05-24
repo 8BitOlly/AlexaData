@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "name": "event one",
+      "dateTime": "2022-05-29T14:00:00.000Z",
+      "description": "this is event one",
+      "location": "student union"
+    },
+    {
+      "name": "event one",
+      "dateTime": "2022-05-29T14:00:00.000Z",
+      "description": "this is event one",
+      "location": "student union"
+    },
+    {
+      "name": "event one",
+      "dateTime": "2022-05-29T14:00:00.000Z",
+      "description": "this is event one",
+      "location": "student union"
+    }
+  ]
+}
