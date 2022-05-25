@@ -2,19 +2,19 @@
   "events": [
     {
       "name": "event one",
-      "dateTime": "2022-05-29T14:00:00.000Z",
+      "dateTime": "2022-05-29",
       "description": "this is event one",
       "location": "student union"
     },
     {
       "name": "event two",
-      "dateTime": "2022-05-29T14:00:00.000Z",
+      "dateTime": "2022-05-29",
       "description": "this is event two",
       "location": "student union"
     },
     {
-      "name": "event two",
-      "dateTime": "2022-05-29T14:00:00.000Z",
+      "name": "event three",
+      "dateTime": "2022-05-29T",
       "description": "this is event three",
       "location": "student union"
     }
