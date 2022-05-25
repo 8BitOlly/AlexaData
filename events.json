@@ -7,15 +7,15 @@
       "location": "student union"
     },
     {
-      "name": "event one",
+      "name": "event two",
       "dateTime": "2022-05-29T14:00:00.000Z",
-      "description": "this is event one",
+      "description": "this is event two",
       "location": "student union"
     },
     {
-      "name": "event one",
+      "name": "event three",
       "dateTime": "2022-05-29T14:00:00.000Z",
-      "description": "this is event one",
+      "description": "this is event three",
       "location": "student union"
     }
   ]
