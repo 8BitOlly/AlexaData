@@ -24,17 +24,17 @@
       "description": "In our Cyber Security Labs and take part in our Hackathon sponsored by Microsoft",
       "location": "Lovelace building"
     },
-	    {
+	{
       "name": "Launching a business 101",
       "dateTime": "2022-06-07",
       "description": "Learn the ins and outs of launching a business for a panel of experts",
       "location": "The business school"
     },
-	    {
+	{
       "name": "Health, science and wellbeing experience days",
       "dateTime": "2022-06-08",
       "description": "Join us on campus for an interactive experience day for our health, science and wellbeing courses",
       "location": "Science Centre"
-    },
+    }
   ]
 }
